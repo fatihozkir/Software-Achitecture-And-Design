@@ -1,0 +1,6 @@
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\bin\Debug\TasarimMimarisi.exe.config
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\bin\Debug\TasarimMimarisi.exe
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\bin\Debug\TasarimMimarisi.pdb
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\obj\Debug\TasarimMimarisi.csprojResolveAssemblyReference.cache
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\obj\Debug\TasarimMimarisi.exe
+C:\Users\FatihOzkir\Desktop\Console\TasarimMimarisi\TasarimMimarisi\obj\Debug\TasarimMimarisi.pdb
